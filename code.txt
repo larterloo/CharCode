@@ -1,0 +1,15 @@
+2/=>=+0?
+__________________________________________
+
+Write your code above the line
+Anything below the line will be ignored
+Read howto.txt for more details
+
+
+The sample program is an example of a simple number adder:
+Creates an array of size 2
+Gets input into index 0
+Goes to the next index (1)
+Gets input into index 1
+Adds the value of index 0 to index 1
+Outputs index 1
