@@ -11,22 +11,22 @@ If an index is not initialised, it will start with a default of 0
 After the array has been initialised, the operands must follow
 Operations are executed left to right, and any arguments must follow immediately after the operand
 
-+	add to the current index, or increment if no argument is present
+"+"	add to the current index, or increment if no argument is present
 	arguments: the index to add to the current index
 
--	subtract from the current index, or decrement if no argument is present
+"-"	subtract from the current index, or decrement if no argument is present
 	arguments: the index to subtract from the current index
 
-<	jump to the index to the left
+"<"	jump to the index to the left
 
->	jump to the index to the right
+">"	jump to the index to the right
 
-|	jump to an index
+"|"	jump to an index
 	arguments: the index to jump to
 
-=	input into current index
+"="	input into current index
 
-?	output from current index
+"?"	output from current index
 
 
 
